@@ -1,12 +1,7 @@
-# JavascriptNote
-个人的js笔记
+# Linji Practices
 
-##JS类和继承
+个人的前端学习笔记
 
-`
-function Animal(age){
-    this.age = age;
-}
-var dog = new Animal(4);
-// test
-`
+## JS类和继承
+
+`function Animal(age){ this.age = age; } var dog = new Animal(4); // test`
