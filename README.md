@@ -4,4 +4,7 @@
 
 ## JS类和继承
 
-`function Animal(age){ this.age = age; } var dog = new Animal(4); // test`
+```javascript
+function Animal(age){ this.age = age; } var dog = new Animal(4); 
+// test
+```
